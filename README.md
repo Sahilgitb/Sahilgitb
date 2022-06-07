@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahil_pawar98" target="blank"><img src="https://img.shields.io/twitter/follow/sahil_pawar98?logo=twitter&style=for-the-badge" alt="sahil_pawar98" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native , Java and Springboot **
 
 - 💬 Ask me about **Mern , J2EE**
 
